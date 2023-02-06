@@ -3,18 +3,15 @@
 About Me 
 ----------------------------------------------------------
 - 🖥️ I'm a Software Engineer from India.
-- 👨‍💻 I'm currently working as Go Lang Developer and AWS Cloud Engineer
+- 👨‍💻 I'm currently working as Java Full Stack Developer
 - 🌱 I’m currently learning AWS.
-- ⚡ Fun fact: Everything is Awesome!
-- ❤️ Cycling & Volleyball.
-- 🤓 God Bless This Mess..!!.
-- 🚲 When In Doubt Pedal It Out🚲.
+
 
 ---
 
-![atharvaskadam's github stats](https://github-readme-stats.vercel.app/api?username=atharvaskadam&show_icons=true&theme=radical)
+![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=17sid&show_icons=true&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=atharvaskadam&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=sid17&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
 
 ---
 
@@ -50,9 +47,9 @@ About Me
 
 ---
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=atharvaskadam&theme=highcontrast)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sid17&theme=highcontrast)
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=atharvaskadam.atharvaskadam)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=sid17.sid17)
 
 ---
 
