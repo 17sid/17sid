@@ -25,6 +25,8 @@ About Me
 [![ExpressJS](https://img.shields.io/badge/ExpressJS-ffffff?style=for-the-badge&logo=Express&logoColor=green)](https://expressjs.com/)
 [![ReactJS](https://img.shields.io/badge/React-00ADD8?style=for-the-badge&logo=React&logoColor=blue)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-%23E44D27?style=for-the-badge&logo=Angular&logoColor=white)](https://angular.io/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0052CC?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![NPM](https://img.shields.io/badge/NPM-%23E44D27?style=for-the-badge&logo=NPM&logoColor=white)](https://www.npmjs.com/package/react-github-badge)
 [![JQuery](https://img.shields.io/badge/JQuery-00ADD8?style=for-the-badge&logo=JQuery&logoColor=white)](https://angular.io/)
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
