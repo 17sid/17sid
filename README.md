@@ -47,9 +47,9 @@ About Me
 
 ---
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sid17&theme=highcontrast)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=17sid&theme=highcontrast)
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=sid17.sid17)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=17sid.17sid)
 
 ---
 
