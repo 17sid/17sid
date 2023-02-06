@@ -2,9 +2,11 @@
 ----------------------------------------------------------
 About Me 
 ----------------------------------------------------------
-- 🖥️ I'm a Software Engineer from India.
+- 💻 I'm a Software Engineer from India.
 - 👨‍💻 I'm currently working as Java Full Stack Developer
-- 🌱 I’m currently learning AWS.
+- 🐲 I'm Proficient in Developing Full Stack Application using MERN and MEAN Stack.
+- 🌱 I’m currently learning React Native.
+- 🧩 Writing a better code is never ending puzzle.
 
 
 ---
