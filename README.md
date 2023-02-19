@@ -8,7 +8,8 @@ About Me
 - 🌱 I’m currently learning React Native.
 - 🧩 Writing a better code is never ending puzzle.
 
-
+---
+![Contributions](./contributions.svg)
 ---
 
 ![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=17sid&show_icons=true&theme=radical)
