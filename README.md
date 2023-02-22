@@ -5,7 +5,8 @@ About Me
 - 💻 I'm a Software Engineer from India.
 - 👨‍💻 I'm currently working as Java Full Stack Developer
 - 🐲 I'm Proficient in Developing Full Stack Application using MERN and MEAN Stack.
-- 🌱 I’m currently learning React Native.
+- ☁  AWS and Azure Certified.
+- 🌱 I’m currently learning React Native and AWS.
 - 🧩 Writing a better code is never ending puzzle.
 
 ---
