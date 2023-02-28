@@ -13,7 +13,7 @@ About Me
 ![Contributions](./contributions.svg)
 ---
 
-![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=17sid&show_icons=true&theme=radical)
+![Siddhesh's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=17sid&show_icons=true&theme=radical)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sid17&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
 
